@@ -1,0 +1,11 @@
+
+.navLink{
+    text-decoration: none;
+}
+
+.App{ 
+    background-image: url("./wood-1108307_1280.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
