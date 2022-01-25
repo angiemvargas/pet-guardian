@@ -45,7 +45,7 @@ function Copyright() {
 const footers = [
     {
       title: <WhatsAppIcon fontSize="large" />,
-      description: [ 'Telefono: +57 3507839359','Dirección: Crr30 # 34 06', 'Contacto: Manuel.calle@udea.edu.co', 'CC: el carme center local 304'],
+      description: [ 'Telefono: +57 3153163178','Dirección: Cr35 # 20', 'Contacto: Angiem.vargas@udea.edu.co', 'CC: el carme center local 304'],
     },
   ];
 
